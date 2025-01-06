@@ -24,9 +24,21 @@
     <ClCompile Include="DLinkedListMain.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Point.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointListMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DLInkedListSortMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DLinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

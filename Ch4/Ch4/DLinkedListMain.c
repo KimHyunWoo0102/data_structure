@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include"DLinkedList.h"
 
+/*
 int main() {
 	List list;
 	int data;
@@ -45,3 +46,4 @@ int main() {
 
 	return 0;
 }
+*/
