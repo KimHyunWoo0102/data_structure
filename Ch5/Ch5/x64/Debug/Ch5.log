@@ -1,5 +1,9 @@
-﻿  employeeTestMain.c
-C:\Users\rlagu\source\repos\c자료구조\Ch5\Ch5\employeeTestMain.c(21,20): warning C4047: '함수': 'List *'의 간접 참조 수준이 'List **'과(와) 다릅니다.
-C:\Users\rlagu\source\repos\c자료구조\Ch5\Ch5\employeeTestMain.c(21,20): warning C4024: 'printNdaysAfter': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
-C:\Users\rlagu\source\repos\c자료구조\Ch5\Ch5\employeeTestMain.c(40,9): warning C4101: 'nodeNum' :참조되지 않은 지역 변수입니다.
-  Ch5.vcxproj -> C:\Users\rlagu\source\repos\c자료구조\Ch5\x64\Debug\Ch5.exe
+﻿  CLinkedList.c
+  CLinkedListMain.c
+  employeeTestMain.c
+  코드를 생성하고 있습니다...
+DBLinkedList.obj : error LNK2005: LCount이(가) CLinkedList.obj에 이미 정의되어 있습니다.
+DBLinkedList.obj : error LNK2005: LFirst이(가) CLinkedList.obj에 이미 정의되어 있습니다.
+DBLinkedList.obj : error LNK2005: LNext이(가) CLinkedList.obj에 이미 정의되어 있습니다.
+DBLinkedList.obj : error LNK2005: ListInit이(가) CLinkedList.obj에 이미 정의되어 있습니다.
+C:\Users\rlagu\source\repos\c자료구조\Ch5\x64\Debug\Ch5.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

@@ -2,9 +2,9 @@
 
 #define TRUE 1
 #define FALSE 0
-#include "employeeList.h"
 
-typedef Employee* Data;
+
+typedef int Data;
 
 typedef struct _node {
 	Data data;
