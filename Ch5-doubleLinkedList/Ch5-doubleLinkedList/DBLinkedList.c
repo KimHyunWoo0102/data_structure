@@ -1,6 +1,7 @@
 #include "DBLinkedList.h"
 #include<stdio.h>
 #include<stdlib.h>
+#include "dummyDBLinkedList.h"
 
 void ListInit(List* plist) {
 	plist->head = NULL;
@@ -20,6 +21,8 @@ void ListInsert(List* plist, Data data) {
 
 	(plist->numOfData)++;
 }
+
+
 
 int LFirst(List* plist, Data* pdata) {
 	if (plist->head == NULL)

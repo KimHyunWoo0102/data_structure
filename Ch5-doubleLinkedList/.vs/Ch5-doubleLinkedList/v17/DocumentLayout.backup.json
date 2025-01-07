@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|solutionrelative:Ch5-doubleLinkedList\\DBLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\dummyDBLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|solutionrelative:Ch5-doubleLinkedList\\dummyDBLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|solutionrelative:Ch5-doubleLinkedList\\DBLinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBDLinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|solutionrelative:Ch5-doubleLinkedList\\DBDLinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|solutionrelative:Ch5-doubleLinkedList\\DBLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\dummyDBLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D89A58DC-9926-4CBD-A2F9-D0A086DFBA81}|Ch5-doubleLinkedList\\Ch5-doubleLinkedList.vcxproj|solutionrelative:Ch5-doubleLinkedList\\dummyDBLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DBLinkedList.h",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedList.h",
-              "RelativeDocumentMoniker": "Ch5-doubleLinkedList\\DBLinkedList.h",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedList.h",
-              "RelativeToolTip": "Ch5-doubleLinkedList\\DBLinkedList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-07T07:53:18.642Z",
+              "DocumentIndex": 1,
+              "Title": "DBDLinkedListMain.c",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBDLinkedListMain.c",
+              "RelativeDocumentMoniker": "Ch5-doubleLinkedList\\DBDLinkedListMain.c",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBDLinkedListMain.c",
+              "RelativeToolTip": "Ch5-doubleLinkedList\\DBDLinkedListMain.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-07T08:52:01.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DBLinkedListMain.c",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedListMain.c",
-              "RelativeDocumentMoniker": "Ch5-doubleLinkedList\\DBLinkedListMain.c",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedListMain.c*",
-              "RelativeToolTip": "Ch5-doubleLinkedList\\DBLinkedListMain.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "dummyDBLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\dummyDBLinkedList.c",
+              "RelativeDocumentMoniker": "Ch5-doubleLinkedList\\dummyDBLinkedList.c",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\dummyDBLinkedList.c",
+              "RelativeToolTip": "Ch5-doubleLinkedList\\dummyDBLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-07T07:52:56.948Z",
+              "WhenOpened": "2025-01-07T08:19:07.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DBLinkedList.c",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedList.c",
-              "RelativeDocumentMoniker": "Ch5-doubleLinkedList\\DBLinkedList.c",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\DBLinkedList.c*",
-              "RelativeToolTip": "Ch5-doubleLinkedList\\DBLinkedList.c*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-07T07:52:34.795Z",
+              "Title": "dummyDBLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\dummyDBLinkedList.h",
+              "RelativeDocumentMoniker": "Ch5-doubleLinkedList\\dummyDBLinkedList.h",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch5-doubleLinkedList\\Ch5-doubleLinkedList\\dummyDBLinkedList.h",
+              "RelativeToolTip": "Ch5-doubleLinkedList\\dummyDBLinkedList.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T08:18:14.612Z",
               "EditorCaption": ""
             }
           ]
