@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStackMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ArrayBaseStackMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ArrayBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ArrayBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayBaseStackMain.c",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStackMain.c",
+              "RelativeDocumentMoniker": "Ch6-stack\\ArrayBaseStackMain.c",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStackMain.c",
+              "RelativeToolTip": "Ch6-stack\\ArrayBaseStackMain.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-07T10:08:08.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayBaseStack.c",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c",
+              "RelativeDocumentMoniker": "Ch6-stack\\ArrayBaseStack.c",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c*",
+              "RelativeToolTip": "Ch6-stack\\ArrayBaseStack.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-07T10:01:37.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayBaseStack.h",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.h",
+              "RelativeDocumentMoniker": "Ch6-stack\\ArrayBaseStack.h",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.h",
+              "RelativeToolTip": "Ch6-stack\\ArrayBaseStack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T09:59:07.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
