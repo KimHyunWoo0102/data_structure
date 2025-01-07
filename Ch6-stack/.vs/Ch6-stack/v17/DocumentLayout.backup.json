@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStackMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ArrayBaseStackMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ListBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ArrayBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ListBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ArrayBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStackMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AE2A49-5E98-40C3-BAE2-D41D28BA2DC7}|Ch6-stack\\Ch6-stack.vcxproj|solutionrelative:Ch6-stack\\ListBaseStackMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ch6-stack\\ArrayBaseStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ch6-stack\\ArrayBaseStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +35,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArrayBaseStackMain.c",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStackMain.c",
-              "RelativeDocumentMoniker": "Ch6-stack\\ArrayBaseStackMain.c",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStackMain.c",
-              "RelativeToolTip": "Ch6-stack\\ArrayBaseStackMain.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "ListBaseStack.c",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStack.c",
+              "RelativeDocumentMoniker": "Ch6-stack\\ListBaseStack.c",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStack.c*",
+              "RelativeToolTip": "Ch6-stack\\ListBaseStack.c*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-07T10:08:08.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArrayBaseStack.c",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c",
-              "RelativeDocumentMoniker": "Ch6-stack\\ArrayBaseStack.c",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c*",
-              "RelativeToolTip": "Ch6-stack\\ArrayBaseStack.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-07T10:01:37.969Z",
+              "WhenOpened": "2025-01-07T10:44:04.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ListBaseStackMain.c",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStackMain.c",
+              "RelativeDocumentMoniker": "Ch6-stack\\ListBaseStackMain.c",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStackMain.c",
+              "RelativeToolTip": "Ch6-stack\\ListBaseStackMain.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-07T10:43:49.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListBaseStack.h",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStack.h",
+              "RelativeDocumentMoniker": "Ch6-stack\\ListBaseStack.h",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ListBaseStack.h",
+              "RelativeToolTip": "Ch6-stack\\ListBaseStack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T10:41:16.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayBaseStack.c",
+              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c",
+              "RelativeDocumentMoniker": "Ch6-stack\\ArrayBaseStack.c",
+              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.c",
+              "RelativeToolTip": "Ch6-stack\\ArrayBaseStack.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-07T10:01:37.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ArrayBaseStack.h",
               "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\c\uC790\uB8CC\uAD6C\uC870\\Ch6-stack\\Ch6-stack\\ArrayBaseStack.h",
               "RelativeDocumentMoniker": "Ch6-stack\\ArrayBaseStack.h",
@@ -60,8 +92,7 @@
               "RelativeToolTip": "Ch6-stack\\ArrayBaseStack.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-07T09:59:07.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T09:59:07.383Z"
             }
           ]
         }

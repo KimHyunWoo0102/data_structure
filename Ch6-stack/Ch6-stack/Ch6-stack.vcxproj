@@ -127,11 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="ArrayBaseStack.h" />
+    <ClInclude Include="ListBaseStack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayBaseStack.c" />
-    <ClCompile Include="ArrayBaseStackMain.c" />
+    <ClCompile Include="ListBaseStack.c" />
+    <ClCompile Include="ListBaseStackMain.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
