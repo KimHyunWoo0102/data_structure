@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="InfixToPostfix.h" />
     <ClInclude Include="ListBaseStack.h" />
+    <ClInclude Include="PostCalculdator.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="InfixToPostfix.c" />
+    <ClCompile Include="InfixToPostfixMain.c" />
     <ClCompile Include="ListBaseStack.c" />
-    <ClCompile Include="ListBaseStackMain.c" />
+    <ClCompile Include="PostCalculdator.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
