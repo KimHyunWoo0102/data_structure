@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="List">
+      <UniqueIdentifier>{1295490f-f37a-407a-ba5b-7cb1f20d862b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests">
+      <UniqueIdentifier>{617fa968-1389-41f4-bebe-41883ee4b721}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{cf08702d-3b6f-4de2-b8a5-a0e45e6bbdda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Node">
+      <UniqueIdentifier>{522e0d8f-be57-4134-bead-efc1b15b605a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CArrayList.cpp">
+      <Filter>List</Filter>
+    </ClCompile>
+    <ClCompile Include="INode.cpp">
+      <Filter>Node</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IList.h">
+      <Filter>List</Filter>
+    </ClInclude>
+    <ClInclude Include="CArrayList.h">
+      <Filter>List</Filter>
+    </ClInclude>
+    <ClInclude Include="ListTest.h">
+      <Filter>tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Exception.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="INode.h">
+      <Filter>Node</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
