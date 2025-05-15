@@ -134,8 +134,8 @@
     <ClInclude Include="ListTest.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CArrayList.cpp" />
     <ClCompile Include="INode.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

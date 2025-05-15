@@ -15,12 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CArrayList.cpp">
-      <Filter>List</Filter>
-    </ClCompile>
     <ClCompile Include="INode.cpp">
       <Filter>Node</Filter>
     </ClCompile>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IList.h">
