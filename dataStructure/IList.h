@@ -31,8 +31,6 @@ public:
 		list.print(os);  // 자식 클래스가 구현한 print() 호출됨
 		return os;
 	}
-private:
-	std::vector<T>ret;
 };
 
 template<typename T>

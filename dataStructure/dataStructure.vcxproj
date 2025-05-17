@@ -128,13 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CArrayList.h" />
+    <ClInclude Include="ILinkedList.h" />
     <ClInclude Include="Exception.h" />
     <ClInclude Include="IList.h" />
-    <ClInclude Include="INode.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="ListTest.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="INode.cpp" />
+    <ClCompile Include="CSingleList.h" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
