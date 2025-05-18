@@ -36,7 +36,7 @@ inline CSingleList<T>::~CSingleList()
 template<typename T>
 inline const std::vector<T> CSingleList<T>::getElements() const
 {
-	std::vector<Node<T>*> ret;
+	std::vector<T> ret;
 	Node<T>* current = this->_head->_next;  // assuming _head is a dummy/sentinel node
 
 	while (current != nullptr) {
@@ -67,6 +67,7 @@ inline void CSingleList<T>::append(int rank, const T& element)
 
 	newNode->_next = current->_next;
 	current->_next = newNode;
+	this->_size++;
 }
 
 template<typename T>

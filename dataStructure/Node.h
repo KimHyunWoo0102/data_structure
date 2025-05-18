@@ -20,19 +20,20 @@ public:
 
     template<typename T>
     friend std::ostream& operator<<(std::ostream& os, const Node<T>* node) {
-        // nullptr을 처리
         if (node == nullptr) {
             return os << "[nullptr]";
         }
 
-        os << "[data : " << node->_data << ", next : " << node->_next;
+        os << "[data: " << node->_data
+            << ", this: " << static_cast<const void*>(node)
+            << ", next: " << static_cast<const void*>(node->_next);
 
-        // _prev를 _prev로 수정
         if (node->_prev == nullptr)
             return os << "]";
         else
-            return os << ", prev : " << node->_prev << "]";
+            return os << ", prev: " << static_cast<const void*>(node->_prev) << "]";
     }
+
 
 private:
 	Node<T>* _next;

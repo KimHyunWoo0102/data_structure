@@ -7,11 +7,14 @@
 template<typename T>
 class ILinkedList :public IList<T> {
 public:
-	ILinkedList() : _size(0) { _head = new Node<T>(); }
+	ILinkedList() : _size(0),IList<T>() { _head = new Node<T>(); }
 	virtual ~ILinkedList() = default;
 
-	virtual size_t size() { return _size; }
-	virtual bool isEmpty() {return _head ? false : true;	}
+	size_t size() const override{ return _size; }
+	bool isEmpty() const override {
+		std::cout << "isEmpty: this = " << this << ", _head = " << this->_head << std::endl;
+		return this->_head->_next == nullptr;
+	}
 
 	virtual const std::vector<T> getElements() const = 0; //TODO: 추후 이터레이터로 변경
 	virtual const T& get(int rank) = 0;

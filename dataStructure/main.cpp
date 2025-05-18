@@ -6,19 +6,18 @@
 
 int main() {
     try {
-        //std::unique_ptr<IList<int>> list = std::make_unique<CArrayList<int>>(50); // 최대 크기 100 지정
-        //// list->append(0, 10); // 사용 예시
+        IList<int>* list =new CSingleList<int>(); // 최대 크기 100 지정
+        // list->append(0, 10); // 사용 예시
 
-        //std::vector<int>test_case{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-        //ListTester::ListTester<int> test(*list, test_case);
+        std::vector<int>test_case{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        ListTester::ListTester<int> test(*list, test_case);
+      
+        auto* ptr_list = list;
+        IList<int>& ref_list = *list;
 
-        //test.TestList();
-
-        CSingleList<int> list;
-        list.append_first(10);
-
-        std::cout << list;
-        const auto& result = list.getElements();
+        ref_list.isEmpty();
+        test.TestList();
+       delete list;
     }
     catch (const std::exception& e) {
         std::cerr << "Exception caught: " << e.what() << std::endl;
