@@ -1,84 +1,86 @@
-#pragma once
+ï»¿#pragma once
 
-#include"ILinkedList.h"
+#include "ILinkedList.h"
 #include "Exception.h"
 
 template<typename T>
-class CSingleList :public ILinkedList<T> {
+class CSingleList : public ILinkedList<T> {
 public:
-	explicit CSingleList():ILinkedList<T>(){}
-	virtual ~CSingleList();
+	explicit CSingleList() : ILinkedList<T>() {}
+	virtual ~CSingleList() = default;
 
-	virtual const std::vector<T> getElements() const; //TODO: ÃßÈÄ ÀÌÅÍ·¹ÀÌÅÍ·Î º¯°æ
-	virtual const T& get(int rank);
+	virtual const std::vector<T> getElements() const override;
+	virtual const T& get(int rank) override;
 
-	virtual void append(int rank, const T& element);
-	virtual const T& remove(int rank);
+	virtual void append(int rank, const T& element) override;
+	virtual const T& remove(int rank) override;
 
-	virtual const size_t search(const T& element);
-private:
-
+	virtual const size_t search(const T& element) override;
 };
 
+// âœ… ìš”ì†Œ ì „ì²´ ë°˜í™˜
 template<typename T>
-inline CSingleList<T>::~CSingleList()
-{
-	Node<T>* current = this->_head;
-	while (current != nullptr) {
-		Node<T>* next = current->_next;
-		delete current;
-		current = next;
-	}
-	this->_head = nullptr;
-	this->_size = 0;
-}
-
-template<typename T>
-inline const std::vector<T> CSingleList<T>::getElements() const
-{
+inline const std::vector<T> CSingleList<T>::getElements() const {
 	std::vector<T> ret;
-	Node<T>* current = this->_head->_next;  // assuming _head is a dummy/sentinel node
+	std::shared_ptr<Node<T>> current = this->_head->_next;  // dummy node ì´í›„ë¶€í„°
 
 	while (current != nullptr) {
-		ret.push_back(current->_data); // assuming Node has member 'data'
+		ret.push_back(current->_data);
 		current = current->_next;
 	}
 
 	return ret;
 }
 
-
+// âœ… íŠ¹ì • ìœ„ì¹˜ ìš”ì†Œ ë°˜í™˜
 template<typename T>
-inline const T& CSingleList<T>::get(int rank)
-try{
-	const Node<T>* ret = this->getNode(rank);
+inline const T& CSingleList<T>::get(int rank) {
+	std::shared_ptr<Node<T>> ret = this->getNode(rank);
 	return ret->_data;
-	// TODO: ¿©±â¿¡ return ¹®À» »ðÀÔÇÕ´Ï´Ù.
-}
-catch (InvalidRankException& e) {
-	throw;
 }
 
+// âœ… ì‚½ìž…
 template<typename T>
-inline void CSingleList<T>::append(int rank, const T& element)
-{
-	Node<T>* current = this->getNode(rank);
-	Node<T>* newNode = new Node<T>(element);
+inline void CSingleList<T>::append(int rank, const T& element) {
+	std::shared_ptr<Node<T>> current = this->getNode(rank);
+	std::shared_ptr<Node<T>> newNode = std::make_shared<Node<T>>(element);
 
 	newNode->_next = current->_next;
 	current->_next = newNode;
 	this->_size++;
 }
 
+// âœ… ì‚­ì œ
 template<typename T>
-inline const T& CSingleList<T>::remove(int rank)
-{
-	// TODO: ¿©±â¿¡ return ¹®À» »ðÀÔÇÕ´Ï´Ù.
-	return rank;
+inline const T& CSingleList<T>::remove(int rank) {
+	if (rank < 0 || rank >= this->_size) {
+		throw InvalidRankException(__func__, "Rank is out of bounds!");
+	}
+
+	std::shared_ptr<Node<T>> prev = this->getNode(rank);
+	std::shared_ptr<Node<T>> target = prev->_next;
+
+	if (target == nullptr) {
+		throw InvalidRankException(__func__, "No node to remove at given rank.");
+	}
+
+	prev->_next = target->_next; // ìžë™ìœ¼ë¡œ targetì˜ ì°¸ì¡° count ê°ì†Œ
+	this->_size--;
+	return target->_data;
 }
 
+// âœ… ê²€ìƒ‰
 template<typename T>
-inline const size_t CSingleList<T>::search(const T& element)
-{
-	return size_t();
+inline const size_t CSingleList<T>::search(const T& element) {
+	std::shared_ptr<Node<T>> current = this->_head->_next;
+	size_t index = 0;
+
+	while (current != nullptr) {
+		if (current->_data == element) {
+			return index;
+		}
+		current = current->_next;
+		index++;
+	}
+	throw NotFoundException(__func__, "Element not found.");
 }

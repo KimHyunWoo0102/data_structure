@@ -16,11 +16,17 @@
     <Filter Include="List\LinkedList">
       <UniqueIdentifier>{5e0719ac-e20c-4492-a133-a6fbfe376e95}</UniqueIdentifier>
     </Filter>
+    <Filter Include="List\Project">
+      <UniqueIdentifier>{0ad0ae7d-8d27-4c1e-8c91-362e92a16351}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="CSingleList.h">
       <Filter>List\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="CShoppingMallManage.cpp">
+      <Filter>List\Project</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -41,6 +47,9 @@
     </ClInclude>
     <ClInclude Include="ILinkedList.h">
       <Filter>List\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="CShoppingMallManage.h">
+      <Filter>List\Project</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

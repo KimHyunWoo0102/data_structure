@@ -45,3 +45,11 @@ public:
     explicit RemoveFailureException(const std::string& func, const std::string& msg)
         :std::runtime_error("Remove failed in " + func + " : " + msg) {}
 };
+
+class NotFoundException :public std::runtime_error {
+public:
+    explicit NotFoundException(const std::string& func)
+        :std::runtime_error("Remove failed in " + func) {}
+    explicit NotFoundException(const std::string& func, const std::string& msg)
+        :std::runtime_error("Remove failed in " + func + " : " + msg) {}
+};

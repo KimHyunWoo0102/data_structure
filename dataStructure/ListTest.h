@@ -89,7 +89,7 @@ namespace ListTester {
     void ListTester<T>::appendAndCheck(const T& element, bool isFront) {
         if (isFront) {
             _list.append_first(element); // _list가 레퍼런스이므로 . 사용
-            if (_list.size() == 0 || _list.get(1) != element) // _list가 레퍼런스이므로 . 사용
+            if (_list.size() == 0 || _list.get(0) != element) // _list가 레퍼런스이므로 . 사용
                 throw AppendFailureException(__func__, "Failed to append to the front of the list.");
         }
         else {
