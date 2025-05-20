@@ -51,5 +51,8 @@
     <ClInclude Include="CShoppingMallManage.h">
       <Filter>List\Project</Filter>
     </ClInclude>
+    <ClInclude Include="MultiNode.h">
+      <Filter>Node</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

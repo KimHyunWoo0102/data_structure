@@ -17,7 +17,6 @@ public:
 	size_t size() const override { return _size; }
 
 	bool isEmpty() const override {
-		std::cout << "isEmpty: this = " << this << ", _head = " << _head.get() << std::endl;
 		return _head->_next == nullptr;
 	}
 

@@ -132,6 +132,7 @@
     <ClInclude Include="ILinkedList.h" />
     <ClInclude Include="Exception.h" />
     <ClInclude Include="IList.h" />
+    <ClInclude Include="MultiNode.h" />
     <ClInclude Include="Node.h" />
     <ClInclude Include="ListTest.h" />
   </ItemGroup>

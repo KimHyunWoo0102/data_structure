@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\CSingleList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\ListTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\ListTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\IList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\IList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\ListTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\ListTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\Exception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\Exception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,16 +27,19 @@
       "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\ILinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\Exception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\Exception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\MultiNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\MultiNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|D:\\source\\repos\\data_structure\\dataStructure\\CArrayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\CArrayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\XUTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EB9BDC1-A08E-4830-ACE3-EB706527F098}|dataStructure\\dataStructure.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\MEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}"
@@ -53,56 +60,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "MultiNode.h",
+              "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\MultiNode.h",
+              "RelativeDocumentMoniker": "dataStructure\\MultiNode.h",
+              "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\MultiNode.h",
+              "RelativeToolTip": "dataStructure\\MultiNode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T11:21:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAewOIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T10:30:11.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ListTest.h",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\ListTest.h",
               "RelativeDocumentMoniker": "dataStructure\\ListTest.h",
               "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\ListTest.h",
               "RelativeToolTip": "dataStructure\\ListTest.h",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAMwG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-13T14:43:51.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IList.h",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\IList.h",
               "RelativeDocumentMoniker": "dataStructure\\IList.h",
               "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\IList.h",
               "RelativeToolTip": "dataStructure\\IList.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-13T14:07:45.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ILinkedList.h",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\ILinkedList.h",
               "RelativeDocumentMoniker": "dataStructure\\ILinkedList.h",
               "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\ILinkedList.h",
               "RelativeToolTip": "dataStructure\\ILinkedList.h",
-              "ViewState": "AgIAACAAAAAAAAAAAAAMwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-17T05:36:22.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\main.cpp",
               "RelativeDocumentMoniker": "dataStructure\\main.cpp",
               "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\main.cpp",
               "RelativeToolTip": "dataStructure\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T13:12:25.094Z",
               "EditorCaption": ""
@@ -113,16 +144,16 @@
               "Title": "CSingleList.h",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\CSingleList.h",
               "RelativeDocumentMoniker": "dataStructure\\CSingleList.h",
-              "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\CSingleList.h",
-              "RelativeToolTip": "dataStructure\\CSingleList.h",
-              "ViewState": "AgIAACcAAAAAAAAAAAAMwDAAAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\CSingleList.h*",
+              "RelativeToolTip": "dataStructure\\CSingleList.h*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-17T05:52:42.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Exception.h",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\Exception.h",
               "RelativeDocumentMoniker": "dataStructure\\Exception.h",
@@ -135,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CShoppingMallManage.cpp",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\CShoppingMallManage.cpp",
               "RelativeDocumentMoniker": "dataStructure\\CShoppingMallManage.cpp",
@@ -147,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CShoppingMallManage.h",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\CShoppingMallManage.h",
               "RelativeDocumentMoniker": "dataStructure\\CShoppingMallManage.h",
@@ -165,14 +196,14 @@
               "RelativeDocumentMoniker": "dataStructure\\Node.h",
               "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\Node.h",
               "RelativeToolTip": "dataStructure\\Node.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-13T16:02:29.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "memory",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\memory",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\memory",
@@ -182,13 +213,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CArrayList.h",
               "DocumentMoniker": "D:\\source\\repos\\data_structure\\dataStructure\\CArrayList.h",
               "RelativeDocumentMoniker": "dataStructure\\CArrayList.h",
               "ToolTip": "D:\\source\\repos\\data_structure\\dataStructure\\CArrayList.h",
               "RelativeToolTip": "dataStructure\\CArrayList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwFgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-13T14:40:22.468Z",
               "EditorCaption": ""

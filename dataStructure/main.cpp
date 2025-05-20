@@ -12,7 +12,7 @@ int main() {
         std::vector<int>test_case{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         ListTester::ListTester<int> test(*list, test_case);
     
-        IList<int>& ref_list = *list;
+        IList< int>& ref_list = *list;
 
         ref_list.isEmpty();
         test.TestList();

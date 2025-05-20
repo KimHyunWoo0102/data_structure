@@ -16,8 +16,8 @@ public:
     }
     ~CArrayList() { delete[] _arr; }
 
-    size_t size() override { return _current_index; }
-    bool isEmpty() override { return _current_index == 0; }
+    virtual size_t size() const override { return _current_index; }
+    virtual bool isEmpty() const override { return _current_index == 0; }
 
     const std::vector<T> getElements() const override;
     const T& get(int rank) override;
