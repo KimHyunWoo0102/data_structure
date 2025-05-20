@@ -77,9 +77,10 @@ namespace ListTester {
         }
         std::cout << _list << "\n"; // _list가 레퍼런스이므로 . 사용
 
-        _list.append(size / 2, _test_case[0]); // _list가 레퍼런스이므로 . 사용
+        _list.append(size / 2, 20); // _list가 레퍼런스이므로 . 사용
         size++;
-        if (_list.size() != size || _list.get(size/2) != _test_case[0]) // _list가 레퍼런스이므로 . 사용
+        std::cout << _list << "\n";
+        if (_list.size() != size || _list.get(size/2) != 20) // _list가 레퍼런스이므로 . 사용
             throw AppendFailureException(__func__, "Failed to append to the middle of the list.");
         std::cout << _list << "\n"; // _list가 레퍼런스이므로 . 사용
     }
@@ -94,7 +95,7 @@ namespace ListTester {
         }
         else {
             _list.append_last(element); // _list가 레퍼런스이므로 . 사용
-            if (_list.size() == 0 || _list.get(_list.size()) != element) // _list가 레퍼런스이므로 . 사용
+            if (_list.size() == 0 || _list.get(_list.size()-1) != element) // _list가 레퍼런스이므로 . 사용
                 throw AppendFailureException(__func__, "Failed to append to the back of the list.");
         }
     }

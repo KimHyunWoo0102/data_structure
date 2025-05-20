@@ -36,21 +36,16 @@ protected:
 };
 
 template<typename T>
-inline std::shared_ptr<Node<T>> ILinkedList<T>::getNode(int rank)
-{
-	if (rank < 0 || rank > this->size()) {
+std::shared_ptr<Node<T>> ILinkedList<T>::getNode(int rank) {
+	if (rank < 0 || rank > _size) {
 		throw InvalidRankException(__func__, "Rank is out of bounds!");
 	}
 
-	std::shared_ptr<Node<T>> current = this->_head;
-
-	if (this->isEmpty())
-		throw InvalidRankException(__func__, "list is Empty");
-	for (int i = 0; i <= rank; i++) {
+	std::shared_ptr<Node<T>> current = _head; // dummy 노드에서 시작
+	for (int i = 0; i < rank; ++i) {
 		current = current->_next;
 	}
-
-	return current;
+	return current; // rank 위치의 이전 노드
 }
 
 template<typename T>

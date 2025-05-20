@@ -36,7 +36,7 @@ inline const std::vector<T> CSingleList<T>::getElements() const {
 template<typename T>
 inline const T& CSingleList<T>::get(int rank) {
 	std::shared_ptr<Node<T>> ret = this->getNode(rank);
-	return ret->_data;
+	return ret->_next->_data;
 }
 
 // ✅ 삽입
@@ -59,14 +59,14 @@ inline const T& CSingleList<T>::remove(int rank) {
 
 	std::shared_ptr<Node<T>> prev = this->getNode(rank);
 	std::shared_ptr<Node<T>> target = prev->_next;
-
+	T remove_element = target->_data;
 	if (target == nullptr) {
 		throw InvalidRankException(__func__, "No node to remove at given rank.");
 	}
 
 	prev->_next = target->_next; // 자동으로 target의 참조 count 감소
 	this->_size--;
-	return target->_data;
+	return remove_element;
 }
 
 // ✅ 검색
